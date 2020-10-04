@@ -1,0 +1,52 @@
+{
+  "customer": [
+    {
+      "nama": "kjdkjs",
+      "alamat": "dusun mesjid",
+      "no_ac": "89822",
+      "no_hp": "9898-99",
+      "id": "3276d290-3c60-4a2b-b78c-2c70112274f8",
+      "id_ac": 1
+    },
+    {
+      "nama": "222",
+      "alamat": "22",
+      "no_ac": "1030.12",
+      "no_hp": "2222",
+      "id": "c0357c89-4cc6-44d4-8e90-4d00cdf21133",
+      "id_ac": 3
+    },
+    {
+      "nama": "muhar",
+      "alamat": "lsm",
+      "no_ac": "1030.12",
+      "no_hp": "0989-1989",
+      "id_ac": 4,
+      "id": "de74f8ba-9d4a-4955-a9cf-6270c56ed3ad"
+    },
+    {
+      "nama": "lkjk",
+      "alamat": "jjlj",
+      "no_ac": "1030.B1",
+      "no_hp": "11",
+      "id_ac": 6,
+      "id": "d5aafbe8-b223-4512-a488-348168b71726"
+    },
+    {
+      "nama": "tes 7",
+      "alamat": "hjh",
+      "no_ac": "1030.B1",
+      "no_hp": "0909-09",
+      "id_ac": 7,
+      "id": "599aae92-c209-4224-95ef-0fa520a3f14e"
+    },
+    {
+      "nama": "sas",
+      "alamat": "sa",
+      "no_ac": "1030.B1",
+      "no_hp": "3233-2332-3232",
+      "id_ac": 8,
+      "id": "f20f3d4a-9bf8-4e1d-a019-366b252fd52e"
+    }
+  ]
+}
